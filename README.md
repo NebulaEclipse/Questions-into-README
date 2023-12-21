@@ -17,11 +17,9 @@
 
   ## [Installation](#table-of-contents)
 
-  Click the repository link below. Download the zip file and copy it to a directory of your choice or clone to a directory of your choice using your terminal.  Open the file in VS Code or whatever editor you work with. Open the terminal in VS Code and make sure you’re in the root directory README-generator. You’ll now be ready to run the app!
+  Click the repository link below. Download the zip file and copy it to a directory of your choice and or clone to a directory of your choice using your terminal.  Open the file in VS Code or whatever editor you work with. Open the terminal in VS Code and make sure you’re in the root directory README-Generator. You’ll now be ready to run the app!
 
   [README Generator Download Link](https://github.com/NebulaEclipse/README-generator/)
-  
-  [7-zip](https://www.7-zip.org/download.html)
   
   README Screenshot No License
   ![README Screenshot No License](utils/images/README-without-license.png)
@@ -31,7 +29,13 @@
 
   ## [Usage](#table-of-contents)
 
-  After installation is complete, run the following code: ‘node inex.js’ in the terminal. Answer the prompts and after completion, you should see a console log showing your answers to your prompts, a message that says ‘File created!’, and you should see your file under the ‘dist’ folder called ‘generatedREADME’. It’s generated in mark down syntax so you can copy and paste that code into your project!
+  After installation is complete, run the following code: ‘node index.js’ in the terminal. Answer all of the prompts and after completion, you should see a console log showing your answers to your prompts, a message that says ‘File created!’, and you should see your file under the ‘README-Generated’ folder called ‘generated-README.md’. It’s generated in mark down syntax so you can copy and paste that code into your project!
+ 
+  Terminal Questions
+  ![Terminal-Questions](utils/images/Terminal-questions.png)
+
+  Terminal After Completing the Questions
+  ![Terminal-After-Questions](utils/images/Terminal-after-completing-questions.png)
   
   For more information on how to add screenshots for examples, visit the following website:
   
@@ -39,7 +43,7 @@
 
   ## [Tests](#table-of-contents)
 
-  To test this app, open up the file in VS Code. Open the terminal, change directory into the root folder ‘challenge-9-professional-README-generator’, and run ‘node index.js’. Answer the prompts and view the preview of the ‘generated-README.md’ file in the ‘README-Generated’ folder.
+  To test this app, open up the file in VS Code. Open the terminal, change directory into the root folder ‘README-Generator’, and run ‘node index.js’. Answer the prompts and view the preview of the ‘generated-README.md’ file in the ‘README-Generated’ folder.
 
   ## [Questions](#table-of-contents)
 
